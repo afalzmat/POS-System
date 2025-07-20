@@ -25,6 +25,6 @@ This repository is dedicated to showcasing the design and functionality of a com
 
 The following is the initial design of the database schema, which is normalized and optimized for scalability.
 
-![schema](POSNegDBSchm.png)
+![schema](POSNegDB_.png)
 
 By AFAlzMat.
